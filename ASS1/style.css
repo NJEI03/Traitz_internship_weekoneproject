@@ -1,0 +1,39 @@
+body{
+    background-image: url("../ASS1/joanna-kosinska-1_CMoFsPfso-unsplash.jpg");
+}
+nav{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header nav ul{
+    display:flex;
+    margin-right: 30px;
+}
+header nav ul li{
+    margin-left:10px;
+    margin-right: 10px;
+    list-style: none;
+}
+ .profile{
+    
+    margin-left: 25px;
+ }
+ .content{
+    margin-top: 5px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+ }
+ .button{
+    border-radius: 40px;
+    background-color: inherit;
+    border-color: black;
+    margin-left: 100px;
+    padding: 10px 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+ }
+ main{
+    margin-top: 55px;
+ }

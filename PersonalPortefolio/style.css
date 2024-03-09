@@ -1,0 +1,301 @@
+
+body{
+    background-color: antiquewhite;
+}
+
+
+main{
+    font-family:  sans-serif;
+    margin-left: ;
+    margin-right: ;
+    align-items: center;
+}
+.logo{
+    font-family:sans-serif;
+    color: orange;
+    margin-left: 40px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 120px ;
+    font-size: 30px;
+}
+.list{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 40px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+a:hover{
+    color: orange;
+}
+li{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.personal{
+    display: flex;
+    justify-content: space-between;
+    /* margin-left: 100px;
+    margin-top: 50px; */
+    max-width: 80%;
+    margin: auto;
+    font-family:  sans-serif;
+    align-items: center;
+    margin-bottom: 120px;
+    font-size: 30px;
+}
+.personal .content{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: larger;
+}
+button{
+    border-radius: 5px;
+    background-color: inherit;
+    padding: 5px 5px;
+    padding-left:20px;
+    padding-right: 20px;
+    text-align: center;
+    font-size:x-small ;
+    
+}
+.button:hover{
+    background-color: orange;
+}
+
+    
+
+img{
+    width: 250px;
+    height: 250px;
+}
+.about{
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 40px;
+    background-color: white;
+    font-size: 20px;
+    height: 300px;
+    max-width: 100%;
+    align-items: center;
+}
+.btn2{
+    display: flex;
+    justify-content:space-between;
+}
+.serviceintro{
+    font-family:sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    
+}
+.job12{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    height: 200px;
+    font-size: 20px;
+    
+
+}
+.job1{
+    background-color: rgb(159, 159, 245);
+    font-family:  sans-serif;
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+    align-items: center;
+    box-shadow: 5px;
+    margin-right: 5px;
+}
+.job2{
+    background-color: yellow;
+    font-family: sans-serif;
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+    margin-left: 5px;
+   
+    
+}
+.job34{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    height: 200px;
+    font-size: 20px;
+    
+
+}
+.job3{
+    background-color: rgb(254, 92, 254);
+    font-family:  sans-serif;
+    /* margin-left: 251px; */
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+    margin-right: 5px;
+   
+}
+.job4{
+    background-color:rgb(49, 247, 49);
+    font-family:  sans-serif;
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;  
+    margin-left: 5px;
+   
+}
+
+.latestworks{
+    margin-top: 70px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: ;
+    margin-bottom: 70px;
+}
+.nav1{
+    margin-top: 30px;
+    display: flex;
+    justify-content: ;
+    list-style: none;
+    margin-left: 450px;
+    margin-bottom: 30px;
+}
+.workex{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-size: 20px;
+    
+}
+.ex{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    font-size: 20px;
+margin-bottom: 70px;
+width: 100%;
+text-align: center;
+
+}
+
+.ex1{
+    background-color: #fadb10;
+    width: 200px;
+    border-radius: 5px;
+}
+.ex2{
+    background-color: white;
+    width: 200px;
+    border-radius: 5px;
+    margin: 0 15px 0 15px;
+    
+}
+.ex3{
+    background-color: white;
+    width: 200px;
+    border-radius: 5px;
+    
+}
+.ideas{
+    text-align: center;
+    background-color: #ffa500;
+    width: 100%;
+    height: 75px;
+    margin-bottom: 30px;
+    padding-top: 7px;
+    height: 100px;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    margin-left: 560px;
+    margin-bottom: 20px;
+}
+.bnav{
+    display:flex;
+    list-style: none;
+    margin-left: 400px ;
+}
+.foot{
+    font-family:  sans-serif;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 20px;
+    
+}
+.im{
+    width: 140px;
+    height: 95px;
+}
+.im1{
+    height: 230px;
+    width: 95px;
+
+}
+.im123{
+    display:;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.im45{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.im678{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.image{
+    display: flex;
+    justify-content: space-between;
+    max-width: 32%;
+    margin-bottom: 50px;
+    margin-left: 31%;
+
+    /* margin-left: 400px; */
+    /* width: 380px; */
+    /*  */
+}
+
+.about h2 span{
+    border-bottom: 5px solid orange;
+}
+.serviceintro h2 span{
+    border-bottom: 5px solid orange;
+}
+.latestworks h2 span{
+border-bottom: 5px solid orange;
+}
+.y{
+    align-items: center;
+   text-align: center;
+    font-size: 20px;
+}
+.p2{
+    margin-top: 30px;
+}
+.s1{
+    
+    max-width: 100%;
+    text-align: center;
+}

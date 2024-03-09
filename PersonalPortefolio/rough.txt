@@ -1,0 +1,110 @@
+<div class="workex">
+        <h2>Work Experiences</h2>
+        <p>Here is a layout of my overall experience as web developer</p>
+    </div>
+   
+    <div class="ex">
+        <div class="ex1">
+            <p>June 2018-March 2020</p>
+            <h2>UI/UX Designer</h2>
+            <h4>Google</h4>
+            
+        </div>
+        <div class="ex2">
+            <p>June 2018-March 2020</p>
+            <h2>Web Developer</h2>
+            <h4>Youtube</h4>
+            <p>I worked as a designer at Youtube</p>
+        </div>
+        <div class="ex3">
+            <p>June 2018-March 2020</p>
+            <h2>Project Lead</h2>
+            <h4>Adobe Inc</h4>
+            <p>I worked as a designer at Traitz</p>
+        </div>
+    </div>
+
+    <section class="ideas">
+        <div>
+        <h3>Have any projects in mind?</h3>
+        </div>
+        <div>
+            <button style="background-color: white;"><a href="#">HIRE ME</a></button>
+        </div>
+
+    </section>
+    <div class="icon">
+        <a href="https://www.bing.com/ck/a?!&&p=235bbed16f82b595JmltdHM9MTcwOTg1NjAwMCZpZ3VpZD0wZDJhYzAzMy1hOGNmLTY2MjUtMDEzMS1kNDBlYTkzODY3YjgmaW5zaWQ9NTIwMw&ptn=3&ver=2&hsh=3&fclid=0d2ac033-a8cf-6625-0131-d40ea93867b8&psq=instagram&u=a1aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS8&ntb=1"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://www.bing.com/ck/a?!&&p=ee59c3e60862ae40JmltdHM9MTcwOTg1NjAwMCZpZ3VpZD0wZDJhYzAzMy1hOGNmLTY2MjUtMDEzMS1kNDBlYTkzODY3YjgmaW5zaWQ9NTIwMA&ptn=3&ver=2&hsh=3&fclid=0d2ac033-a8cf-6625-0131-d40ea93867b8&psq=facebook&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLw&ntb=1"><i class="fa-brands fa-square-facebook"></i></a>
+        <a href="https://www.bing.com/ck/a?!&&p=27e266071e544abbJmltdHM9MTcwOTg1NjAwMCZpZ3VpZD0wZDJhYzAzMy1hOGNmLTY2MjUtMDEzMS1kNDBlYTkzODY3YjgmaW5zaWQ9NTIwNw&ptn=3&ver=2&hsh=3&fclid=0d2ac033-a8cf-6625-0131-d40ea93867b8&psq=github&u=a1aHR0cHM6Ly9naXRodWIuY29tLw&ntb=1"><i class="fa-brands fa-github"></i></a>
+       <a href="https://www.bing.com/ck/a?!&&p=dac3b234c131d982JmltdHM9MTcwOTg1NjAwMCZpZ3VpZD0wZDJhYzAzMy1hOGNmLTY2MjUtMDEzMS1kNDBlYTkzODY3YjgmaW5zaWQ9NTE5OQ&ptn=3&ver=2&hsh=3&fclid=0d2ac033-a8cf-6625-0131-d40ea93867b8&psq=youtube&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vP2FwcA&ntb=1"> <i class="fa-brands fa-youtube"></i></a>
+    </div>
+    <div > <!--meaning buttom nav-->
+        <ul class="bnav">
+        <li><a href="#">Home</li></a>
+        <li><a href="#">About Me</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">Work</a></li>
+    </ul>
+    </div>
+</main>
+<footer class="foot">
+    <p><strong>Designed with love</strong></p>
+   <p><strong>@2024 copyright by JJ</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gridcontiner">
+        
+       
+ </div>
+       
+        <div class="grititem">
+            <img class="im" src="matrix-7247571_1280.png" alt="image">
+        </div>
+        <div class="grititem">
+            <img class="im" src="laptop-33521_1280.png" alt="image">
+        </div>
+        <div class="grititem">
+            <img class="im" src="laptop-33521_1280.png" alt="image">
+        </div>
+        <div class="grititem">
+            <img class="im" src="css-27192_1280.png" alt="image">
+        </div>

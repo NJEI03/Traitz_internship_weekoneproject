@@ -1,0 +1,53 @@
+/*hid hamburger*/
+.hamburger-menu{
+
+    display: none;
+}
+/*flex layout for header*/
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/*style for hamburger menu icon*/
+
+.line{
+    width: 30px;
+    height: 3px;
+    background-color: #333;
+    margin:  3px 0;
+
+}
+.nav-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+nav ul a{
+    text-decoration: none;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 7px;
+}
+/*media query for smaller icon*/
+@media screen and (max-width:768px){
+    .nav-links{
+        display: none;
+    }/* hides the nav links by default*/
+    .hamburger-menu{
+        display: flex;/*displays hamburger menu for saller screens*/
+    }
+    .logo{
+        font-size: large;
+    }
+    .nav-links{
+        align-items: center;
+    }
+    .hamburger-menu{
+        display: flex;
+        flex-direction: column;
+        cursor: pointer;
+    }
+}
